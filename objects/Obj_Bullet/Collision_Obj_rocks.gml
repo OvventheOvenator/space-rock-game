@@ -1,3 +1,5 @@
+score += 15
+
 instance_destroy();
 
 with(other){
