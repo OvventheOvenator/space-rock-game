@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Player",
+  "%Name":"Obj_Restart",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_rocks","path":"objects/Obj_rocks/Obj_rocks.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":82,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Player",
+  "name":"Obj_Restart",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Ship",
-    "path":"sprites/Spr_Ship/Spr_Ship.yy",
+    "name":"Spr_Debris",
+    "path":"sprites/Spr_Debris/Spr_Debris.yy",
   },
   "spriteMaskId":null,
   "visible":true,
