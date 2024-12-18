@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Rm_Game","order":1,"path":"rooms/Rm_Game/Rm_Game.yy",},
+    {"name":"Rm_Gameover","order":3,"path":"rooms/Rm_Gameover/Rm_Gameover.yy",},
+    {"name":"Rm_Win","order":2,"path":"rooms/Rm_Win/Rm_Win.yy",},
+  ],
+}
