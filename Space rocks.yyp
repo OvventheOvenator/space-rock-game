@@ -43,8 +43,8 @@
     {"id":{"name":"Obj_rocks","path":"objects/Obj_rocks/Obj_rocks.yy",},},
     {"id":{"name":"Rm_Game","path":"rooms/Rm_Game/Rm_Game.yy",},},
     {"id":{"name":"Rm_Gameover","path":"rooms/Rm_Gameover/Rm_Gameover.yy",},},
+    {"id":{"name":"Rm_Start","path":"rooms/Rm_Start/Rm_Start.yy",},},
     {"id":{"name":"Rm_Win","path":"rooms/Rm_Win/Rm_Win.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Spr_Big_rock","path":"sprites/Spr_Big_rock/Spr_Big_rock.yy",},},
     {"id":{"name":"Spr_Bullet","path":"sprites/Spr_Bullet/Spr_Bullet.yy",},},
     {"id":{"name":"Spr_Debris","path":"sprites/Spr_Debris/Spr_Debris.yy",},},
@@ -55,7 +55,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Rm_Start","path":"rooms/Rm_Start/Rm_Start.yy",},},
     {"roomId":{"name":"Rm_Game","path":"rooms/Rm_Game/Rm_Game.yy",},},
     {"roomId":{"name":"Rm_Win","path":"rooms/Rm_Win/Rm_Win.yy",},},
     {"roomId":{"name":"Rm_Gameover","path":"rooms/Rm_Gameover/Rm_Gameover.yy",},},
