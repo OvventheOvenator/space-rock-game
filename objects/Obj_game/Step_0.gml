@@ -10,3 +10,13 @@ if(keyboard_check_pressed(vk_enter)){
 			break;
 	}
 }
+
+if(room == Rm_Game){
+	if(score >= 1000){
+		room_goto(Rm_Win);
+	}
+
+	if(lives <= 0){
+		room_goto(Rm_Gameover);
+	}
+}

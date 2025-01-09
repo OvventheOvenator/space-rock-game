@@ -1,3 +1,12 @@
+var _instructions = 
+@"Score 1000 points to win!
+UP: move
+LEFT/RIGHT: rotate ship
+SPACE: shoot
+
+>> Press ENTER to start! <<"
+
+
 switch(room){
 	case Rm_Game:
 		draw_text(20,20, "SCORE: "+string(score));	
@@ -12,15 +21,7 @@ switch(room){
 			3, 3, 0, c,c,c,c, 1
 		);
 		draw_text(
-			room_width/2, 200,
-			@"Score 1,000 points to win!
-			
-			UP: move
-			LEFT/RIGHT: change direction
-			SPACE: shoot
-			
-			>> PRESS ENTER TO START <<
-			"
+			room_width/2, 200,_instructions,
 		);
 		draw_set_halign(fa_left);
 		break;
@@ -51,9 +52,10 @@ switch(room){
 			room_width/2, 250,
 			@"FINAL SCORE: "+string(score)
 		);
-		draw_text(
-			room_width/2, 250,
-			@"PRESS ENTER TO RESTART"+string(score)
+		draw_text( 
+		
+			room_width/2, 300,
+			@"PRESS ENTER TO RESTART"
 		);
 		draw_set_halign(fa_left);
 		break;
