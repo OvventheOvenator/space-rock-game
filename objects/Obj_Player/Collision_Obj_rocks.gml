@@ -1,5 +1,10 @@
-/// @description Insert description here
 lives -= 1;
+
+with(Obj_game){
+	alarm[1] = room_speed;
+}
+
+audio_play_sound(Snd_die, 1, false);
 
 instance_destroy();
 

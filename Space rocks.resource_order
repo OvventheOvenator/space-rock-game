@@ -4,5 +4,10 @@
     {"name":"Rm_Gameover","order":3,"path":"rooms/Rm_Gameover/Rm_Gameover.yy",},
     {"name":"Rm_Start","order":1,"path":"rooms/Rm_Start/Rm_Start.yy",},
     {"name":"Rm_Win","order":2,"path":"rooms/Rm_Win/Rm_Win.yy",},
+    {"name":"Snd_die","order":2,"path":"sounds/Snd_die/Snd_die.yy",},
+    {"name":"Snd_hurt","order":3,"path":"sounds/Snd_hurt/Snd_hurt.yy",},
+    {"name":"Snd_lose","order":4,"path":"sounds/Snd_lose/Snd_lose.yy",},
+    {"name":"Snd_shoot","order":1,"path":"sounds/Snd_shoot/Snd_shoot.yy",},
+    {"name":"Snd_win","order":5,"path":"sounds/Snd_win/Snd_win.yy",},
   ],
 }
