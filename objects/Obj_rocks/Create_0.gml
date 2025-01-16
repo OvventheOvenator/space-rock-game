@@ -1,6 +1,6 @@
 /// @asteroids
 sprite_index = choose(
-	Spr_Big_rock, Spr_medium_rock, 
+	Spr_JUMBO_rock, Spr_Big_rock, Spr_medium_rock, 
 	Spr_small_rock
 );
 

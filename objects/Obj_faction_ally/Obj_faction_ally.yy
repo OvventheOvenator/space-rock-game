@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Player",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_rocks","path":"objects/Obj_rocks/Obj_rocks.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_faction_ally",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_Player",
+  "name":"Obj_faction_ally",
   "overriddenProperties":[],
   "parent":{
     "name":"allies",
     "path":"folders/Objects/allies.yy",
   },
   "parentObjectId":{
-    "name":"Obj_faction_ally",
-    "path":"objects/Obj_faction_ally/Obj_faction_ally.yy",
+    "name":"Obj_faction",
+    "path":"objects/Obj_faction/Obj_faction.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -33,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_Ship",
-    "path":"sprites/Spr_Ship/Spr_Ship.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

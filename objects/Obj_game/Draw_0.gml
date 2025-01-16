@@ -1,5 +1,5 @@
-var _instructions = 
-@"Score 1000 points to win!
+                                    var _instructions = 
+@"Score 1500 points to win!
 UP: move
 LEFT/RIGHT: rotate ship
 SPACE: shoot

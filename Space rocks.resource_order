@@ -1,6 +1,20 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"allies","order":5,"path":"folders/Objects/allies.yy",},
+    {"name":"enemies","order":4,"path":"folders/Objects/enemies.yy",},
+    {"name":"neutral","order":6,"path":"folders/Objects/neutral.yy",},
+  ],
   "ResourceOrderSettings":[
+    {"name":"Obj_Bullet","order":2,"path":"objects/Obj_Bullet/Obj_Bullet.yy",},
+    {"name":"Obj_Debris","order":3,"path":"objects/Obj_Debris/Obj_Debris.yy",},
+    {"name":"Obj_faction_ally","order":1,"path":"objects/Obj_faction_ally/Obj_faction_ally.yy",},
+    {"name":"Obj_faction_enemy","order":4,"path":"objects/Obj_faction_enemy/Obj_faction_enemy.yy",},
+    {"name":"Obj_faction","order":8,"path":"objects/Obj_faction/Obj_faction.yy",},
+    {"name":"Obj_hunter","order":1,"path":"objects/Obj_hunter/Obj_hunter.yy",},
+    {"name":"Obj_par_enemy","order":2,"path":"objects/Obj_par_enemy/Obj_par_enemy.yy",},
+    {"name":"Obj_raider","order":3,"path":"objects/Obj_raider/Obj_raider.yy",},
+    {"name":"Obj_Restart","order":7,"path":"objects/Obj_Restart/Obj_Restart.yy",},
+    {"name":"Obj_rocks","order":1,"path":"objects/Obj_rocks/Obj_rocks.yy",},
     {"name":"Rm_Gameover","order":3,"path":"rooms/Rm_Gameover/Rm_Gameover.yy",},
     {"name":"Rm_Start","order":1,"path":"rooms/Rm_Start/Rm_Start.yy",},
     {"name":"Rm_Win","order":2,"path":"rooms/Rm_Win/Rm_Win.yy",},
@@ -9,5 +23,9 @@
     {"name":"Snd_lose","order":4,"path":"sounds/Snd_lose/Snd_lose.yy",},
     {"name":"Snd_shoot","order":1,"path":"sounds/Snd_shoot/Snd_shoot.yy",},
     {"name":"Snd_win","order":5,"path":"sounds/Snd_win/Snd_win.yy",},
+    {"name":"Spr_brute","order":3,"path":"sprites/Spr_brute/Spr_brute.yy",},
+    {"name":"Spr_hunter","order":2,"path":"sprites/Spr_hunter/Spr_hunter.yy",},
+    {"name":"Spr_JUMBO_rock","order":1,"path":"sprites/Spr_JUMBO_rock/Spr_JUMBO_rock.yy",},
+    {"name":"Spr_raider","order":4,"path":"sprites/Spr_raider/Spr_raider.yy",},
   ],
 }

@@ -1,20 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_rocks",
+  "%Name":"Obj_faction_enemy",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_rocks",
+  "name":"Obj_faction_enemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"neutral",
-    "path":"folders/Objects/neutral.yy",
+    "name":"enemies",
+    "path":"folders/Objects/enemies.yy",
   },
   "parentObjectId":{
-    "name":"Obj_faction_neutral",
-    "path":"objects/Obj_faction_neutral/Obj_faction_neutral.yy",
+    "name":"Obj_faction",
+    "path":"objects/Obj_faction/Obj_faction.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -33,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_medium_rock",
-    "path":"sprites/Spr_medium_rock/Spr_medium_rock.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

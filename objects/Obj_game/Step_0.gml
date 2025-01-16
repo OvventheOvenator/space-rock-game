@@ -12,7 +12,7 @@ if(keyboard_check_pressed(vk_enter)){
 }
 
 if(room == Rm_Game){
-	if(score >= 1000){
+	if(score >= 1500){
 		room_goto(Rm_Win);
 		audio_play_sound(Snd_win, 1, false);
 	}
