@@ -10,8 +10,8 @@
     "path":"folders/Objects/enemies.yy",
   },
   "parentObjectId":{
-    "name":"Obj_faction_enemy",
-    "path":"objects/Obj_faction_enemy/Obj_faction_enemy.yy",
+    "name":"Obj_par_enemy",
+    "path":"objects/Obj_par_enemy/Obj_par_enemy.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
