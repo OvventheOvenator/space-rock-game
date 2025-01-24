@@ -5,7 +5,7 @@
     {"name":"neutral","order":6,"path":"folders/Objects/neutral.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"Obj_Bullet","order":2,"path":"objects/Obj_Bullet/Obj_Bullet.yy",},
+    {"name":"obj_bullet","order":2,"path":"objects/obj_bullet/obj_bullet.yy",},
     {"name":"Obj_Debris","order":3,"path":"objects/Obj_Debris/Obj_Debris.yy",},
     {"name":"Obj_faction_ally","order":1,"path":"objects/Obj_faction_ally/Obj_faction_ally.yy",},
     {"name":"Obj_faction_enemy","order":4,"path":"objects/Obj_faction_enemy/Obj_faction_enemy.yy",},
@@ -21,7 +21,7 @@
     {"name":"Snd_die","order":2,"path":"sounds/Snd_die/Snd_die.yy",},
     {"name":"Snd_hurt","order":3,"path":"sounds/Snd_hurt/Snd_hurt.yy",},
     {"name":"Snd_lose","order":4,"path":"sounds/Snd_lose/Snd_lose.yy",},
-    {"name":"Snd_shoot","order":1,"path":"sounds/Snd_shoot/Snd_shoot.yy",},
+    {"name":"snd_shoot","order":1,"path":"sounds/snd_shoot/snd_shoot.yy",},
     {"name":"Snd_win","order":5,"path":"sounds/Snd_win/Snd_win.yy",},
     {"name":"Spr_brute","order":3,"path":"sprites/Spr_brute/Spr_brute.yy",},
     {"name":"Spr_hunter","order":2,"path":"sprites/Spr_hunter/Spr_hunter.yy",},

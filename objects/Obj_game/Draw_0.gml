@@ -21,8 +21,8 @@ switch(room){
 			3, 3, 0, c,c,c,c, 1
 		);
 		draw_text(
-			room_width/2, 200,_instructions,
-		);
+			room_width/2, 200,_instructions
+);
 		draw_set_halign(fa_left);
 		break;
 	
