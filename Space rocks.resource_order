@@ -6,6 +6,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_bullet","order":2,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"Obj_camera","order":9,"path":"objects/Obj_camera/Obj_camera.yy",},
     {"name":"Obj_Debris","order":3,"path":"objects/Obj_Debris/Obj_Debris.yy",},
     {"name":"Obj_faction_ally","order":1,"path":"objects/Obj_faction_ally/Obj_faction_ally.yy",},
     {"name":"Obj_faction_enemy","order":4,"path":"objects/Obj_faction_enemy/Obj_faction_enemy.yy",},
@@ -23,10 +24,10 @@
     {"name":"Snd_lose","order":4,"path":"sounds/Snd_lose/Snd_lose.yy",},
     {"name":"snd_shoot","order":1,"path":"sounds/snd_shoot/snd_shoot.yy",},
     {"name":"Snd_win","order":5,"path":"sounds/Snd_win/Snd_win.yy",},
+    {"name":"Spr_backgroundTile","order":5,"path":"sprites/Spr_backgroundTile/Spr_backgroundTile.yy",},
     {"name":"Spr_brute","order":3,"path":"sprites/Spr_brute/Spr_brute.yy",},
     {"name":"Spr_hunter","order":2,"path":"sprites/Spr_hunter/Spr_hunter.yy",},
     {"name":"Spr_JUMBO_rock","order":1,"path":"sprites/Spr_JUMBO_rock/Spr_JUMBO_rock.yy",},
     {"name":"Spr_raider","order":4,"path":"sprites/Spr_raider/Spr_raider.yy",},
-    {"name":"Sprite11","order":5,"path":"sprites/Sprite11/Sprite11.yy",},
   ],
 }
