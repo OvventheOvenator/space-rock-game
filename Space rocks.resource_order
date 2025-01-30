@@ -27,5 +27,6 @@
     {"name":"Spr_hunter","order":2,"path":"sprites/Spr_hunter/Spr_hunter.yy",},
     {"name":"Spr_JUMBO_rock","order":1,"path":"sprites/Spr_JUMBO_rock/Spr_JUMBO_rock.yy",},
     {"name":"Spr_raider","order":4,"path":"sprites/Spr_raider/Spr_raider.yy",},
+    {"name":"Sprite11","order":5,"path":"sprites/Sprite11/Sprite11.yy",},
   ],
 }

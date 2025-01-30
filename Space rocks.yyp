@@ -73,6 +73,7 @@
     {"id":{"name":"Spr_raider","path":"sprites/Spr_raider/Spr_raider.yy",},},
     {"id":{"name":"Spr_Ship","path":"sprites/Spr_Ship/Spr_Ship.yy",},},
     {"id":{"name":"Spr_small_rock","path":"sprites/Spr_small_rock/Spr_small_rock.yy",},},
+    {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
